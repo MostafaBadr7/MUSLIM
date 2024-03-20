@@ -1,0 +1,10 @@
+2024-03-20T05:54:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-autoloader.php on line 97
+
+2024-03-20T06:03:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-privacy-data-export-requests-list-table.php on line 10
+
+2024-03-20T06:03:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\dynamic-css\comments.php on line 9
+
+2024-03-20T06:03:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\elements\container.php on line 19
+
+2024-03-20T06:03:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\progress.php on line 4
+
