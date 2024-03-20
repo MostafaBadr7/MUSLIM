@@ -8,3 +8,87 @@
 
 2024-03-20T06:03:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\progress.php on line 4
 
+2024-03-20T15:10:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\vendor\automattic\jetpack-connection\src\class-nonce-handler.php on line 50
+
+2024-03-20T15:37:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-03-20T15:43:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\capabilities.php on line 876
+
+2024-03-20T15:43:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wp-block-type-registry.php on line 195
+
+2024-03-20T15:43:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\src\tasks\class-ss-setup-task.php on line 148
+
+2024-03-20T15:43:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-product-reviews-v2-controller.php on line 39
+
+2024-03-20T15:43:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\markup-extras.php on line 15
+
+2024-03-20T15:44:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\src\tasks\class-ss-setup-task.php on line 148
+
+2024-03-20T15:46:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\lib\packages\League\Container\Definition\DefinitionAggregate.php on line 50
+
+2024-03-20T15:48:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\tutor\classes\Tutor.php on line 598
+
+2024-03-20T15:49:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ultimate-addons-for-gutenberg\includes\blocks\social-share-child\block.php on line 10
+
+2024-03-20T15:49:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ultimate-addons-for-gutenberg\classes\class-uagb-block.php on line 73
+
+2024-03-20T15:49:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ultimate-addons-for-gutenberg\includes\blocks\post-meta\block.php on line 10
+
+2024-03-20T15:49:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\give\vendor\composer\ClassLoader.php on line 506
+
+2024-03-20T15:49:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-api-client\services.php on line 77
+
+2024-03-20T15:49:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-onboarding\services.php on line 27
+
+2024-03-20T15:49:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\emails\class-wc-email-failed-order.php on line 8
+
+2024-03-20T15:50:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\StoreApi.php on line 49
+
+2024-03-20T15:52:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ultimate-member\includes\class-init.php on line 450
+
+2024-03-20T15:52:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ultimate-member\includes\widgets\class-um-search-widget.php on line 6
+
+2024-03-20T15:52:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\Reviews.php on line 16
+
+2024-03-20T15:52:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\Reviews.php on line 16
+
+2024-03-20T15:52:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\Reviews.php on line 16
+
+2024-03-20T15:52:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\Reviews.php on line 16
+
+2024-03-20T15:54:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 2293
+
+2024-03-20T15:54:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskLists.php on line 363
+
+2024-03-20T15:54:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-compat\src\CompatModule.php on line 32
+
+2024-03-20T15:54:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\WooSubscriptionsNotes.php on line 10
+
+2024-03-20T15:54:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Registry\Container.php on line 87
+
+2024-03-20T15:54:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\give\vendor\composer\ClassLoader.php on line 506
+
+2024-03-20T15:57:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ultimate-addons-for-gutenberg\blocks-config\popup-builder\class-uagb-popup-builder.php on line 10
+
+2024-03-20T15:57:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\src\class-ss-archive-creation-job.php on line 6
+
+2024-03-20T15:57:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\give\src\Container\Container.php on line 751
+
+ay\services.php on line 28
+
+2024-03-20T15:57:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\give\includes\forms\functions.php on line 13
+
+2024-03-20T15:59:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ultimate-addons-for-gutenberg\blocks-config\post\class-uagb-post.php on line 8
+
+2024-03-20T16:04:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\src\tasks\class-ss-setup-task.php on line 148
+
+2024-03-20T16:13:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-03-20T19:00:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\src\tasks\class-ss-setup-task.php on line 148
+
+2024-03-20T19:01:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-03-20T19:01:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\give\vendor\composer\ClassLoader.php on line 429
+
+2024-03-20T19:01:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 65
+
