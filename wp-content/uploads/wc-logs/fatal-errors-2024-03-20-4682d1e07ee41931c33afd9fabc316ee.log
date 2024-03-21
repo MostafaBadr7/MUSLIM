@@ -92,3 +92,57 @@ ay\services.php on line 28
 
 2024-03-20T19:01:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 65
 
+2024-03-20T19:30:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-03-20T19:36:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\src\tasks\class-ss-setup-task.php on line 148
+
+2024-03-20T20:08:14+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wp-rewrite.php on line 1685
+
+2024-03-20T20:08:14+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 5055
+
+2024-03-20T21:47:54+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\simply-static\src\tasks\class-ss-setup-task.php on line 148
+
+2024-03-20T21:49:31+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\patterns\product-listing-with-gallery-and-description.php on line 8
+
+2024-03-20T21:49:32+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-03-20T21:49:39+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\API\Notes.php on line 10
+
+2024-03-20T21:49:52+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\rest-api.php on line 107
+
+2024-03-20T21:53:15+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wp-roles.php on line 321
+
+2024-03-20T21:53:17+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-03-20T21:53:48+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-report-sales-v1-controller.php on line 50
+
+2024-03-20T21:55:56+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-optimize\wp-optimize.php on line 114
+
+2024-03-20T21:56:14+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\order-status-control-for-woocommerce\bv-order-status.php on line 42
+
+2024-03-20T21:56:14+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Registry\Container.php on line 87
+
+2024-03-20T21:56:39+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\give\src\Container\Container.php on line 574
+
+2024-03-20T21:56:39+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\settings\class-wc-settings-tax.php on line 9
+
+2024-03-20T21:56:42+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 83
+
+2024-03-20T21:57:31+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\astra-sites\inc\lib\onboarding\classes\class-astra-sites-onboarding-setup.php on line 9
+
+2024-03-20T21:58:53+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 77
+
+2024-03-20T22:58:57+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\src\Transport\Curl.php on line 510
+
+2024-03-20T23:10:51+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\tutor\classes\RestAPI.php on line 141
+
+2024-03-20T23:10:55+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\option.php on line 78
+
+2024-03-20T23:10:56+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\tutor\classes\Tools.php on line 120
+
+2024-03-20T23:10:56+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\customizer\configurations\builder\base\class-astra-social-icon-component-configs.php on line 13
+
+2024-03-20T23:10:59+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 650
+
+2024-03-20T23:12:14+00:00 CRITICAL Maximum execution time of 220 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-order-tracking\carriers.php on line 12
+
